@@ -5,13 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can always find an updated list of my publications on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
 
-## Peer-reviewed publications
+### Peer-reviewed publications
 
 1. **Reduction of a metapopulation genetic model to an effective one island model**. C. Parra-Rojas, and A. J. McKane. *submitted* (2017).
 2. **Stochastic epidemic dynamics on extremely heterogeneous networks**. C. Parra-Rojas, T. House, and A. J. McKane. *Phys. Rev. E* **94(6)**, 062408 (2016).
@@ -22,6 +20,6 @@ author_profile: true
 7. **Pd2+/Pd0 redox cycling in hexagonal YMn0.5Fe0.5O3: Implications for catalysis by PGM substituted complex oxides**. J. A. Kurzman, J. Li, T. D. Schladt, C. R. Parra, X. Ouyang, R. Davis, J. T. Miller, S. L. Scott,
 and R. Seshadri. *Inorg. Chem.* **50**, 8073–8084 (2011).
 
-## Conference proceedings
+### Conference proceedings
 
 1. **From Microscopic Calcium Sparks to the ECG: Model Reduction Approaches for Multi-Scale Cardiac Simulation**. M. A. Colman, C. Parra-Rojas, and E. A. Pérez Alday. *Computing in Cardiology (CinC)*, 325–328 (2015).

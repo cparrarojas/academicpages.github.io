@@ -80,10 +80,7 @@ analytics:
 author:
   name             : "César Parra Rojas"
   avatar           : "profile.JPG"
-  bio              : |
-   Post-doctoral fellow
-   Systems Medicine of Infectious Diseases
-   Frankfurt Institute for Advanced Studies
+  bio              : "Post-doctoral fellow in Systems Medicine at the Frankfurt Institute for Advanced Studies"
   location         : "Frankfurt am Main, Germany"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=YnR1OOQAAAAJ&hl=en"
@@ -113,6 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  researchgate     : "https://www.researchgate.net/profile/Cesar_Parra-Rojas"
 
 
 # Reading Files

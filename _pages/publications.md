@@ -11,6 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# Peer-reviewed publications
+
+1. **Reduction of a metapopulation genetic model to an effective one island model**. C. Parra-Rojas, and A. J. McKane, submitted (2017).
+2. **Stochastic epidemic dynamics on extremely heterogeneous networks**. C. Parra-Rojas, Thomas House, and Alan J. McKane.
+
+[Download paper here](http://cparrarojas.github.io/files/SLVC.pdf)

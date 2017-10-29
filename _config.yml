@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "César Parra Rojas"
 title_separator          : "-"
 name                     : &name "César Parra Rojas"
-description              : &description "Post-doctoral fellow"
+description              : &description "Post-doctoral fellow in the SMID group at FIAS"
 url                      : https://cparrarojas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cparrarojas/cparrarojas.github.io"
@@ -80,11 +80,10 @@ analytics:
 author:
   name             : "César Parra Rojas"
   avatar           : "profile.JPG"
-  bio              : "Post-doctoral fellow\n
-\n
-Systems Medicine of Infectious Diseases\n
-\n
-Frankfurt Institute for Advanced Studies"
+  bio              : |
+Post-doctoral fellow
+Systems Medicine of Infectious Diseases
+Frankfurt Institute for Advanced Studies
   location         : "Frankfurt am Main, Germany"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=YnR1OOQAAAAJ&hl=en"

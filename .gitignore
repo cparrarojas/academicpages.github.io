@@ -1,2 +1,7 @@
 _site/
 
+*.log
+*.synctex.gz
+*.cls
+*.sty
+*.tex

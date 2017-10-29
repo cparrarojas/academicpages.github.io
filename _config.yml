@@ -144,6 +144,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - markdown_generator
 keep_files:
   - .git
   - .svn
@@ -190,16 +191,16 @@ collections:
 # Defaults
 defaults:
   # _posts
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      layout: single
-#      author_profile: true
-#      read_time: true
-#      comments: true
-#      share: true
-#      related: true
+  - scope:
+      type: posts
+      path: ""
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""

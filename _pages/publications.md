@@ -15,7 +15,7 @@ You can always find an updated list of my publications on [my Google Scholar pro
 1. **Reduction of a metapopulation genetic model to an effective one island model**. C. Parra-Rojas, and A. J. McKane. *submitted* (2017).
 
     |[arXiv preprint](https://arxiv.org/abs/1707.07145)|
-    |:------------------------------------------------:|
+    |:---:|
 
 2. **Stochastic epidemic dynamics on extremely heterogeneous networks**. C. Parra-Rojas, T. House, and A. J. McKane. *Phys. Rev. E* **94(6)**, 062408 (2016).
 

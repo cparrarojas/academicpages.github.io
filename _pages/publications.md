@@ -14,13 +14,13 @@ You can always find an updated list of my publications on [my Google Scholar pro
 
 1. **Reduction of a metapopulation genetic model to an effective one island model**. C. Parra-Rojas, and A. J. McKane. *submitted* (2017).
 
-    |:------------------------------------------------:|
     |[arXiv preprint](https://arxiv.org/abs/1707.07145)|
+    |:------------------------------------------------:|
 
 2. **Stochastic epidemic dynamics on extremely heterogeneous networks**. C. Parra-Rojas, T. House, and A. J. McKane. *Phys. Rev. E* **94(6)**, 062408 (2016).
 
-    |:-------------------------------------------:|:------------------------------------------------:|:---------------------------------------------------------------------------------------:|
     |[PDF](/files/pubs/2016-Network_epidemics.pdf)|[arXiv preprint](https://arxiv.org/abs/1609.08450)|[journal website](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.94.062408)|
+    |:-------------------------------------------:|:------------------------------------------------:|:---------------------------------------------------------------------------------------:|
 
 3. **Suppressing escape events in maps of the unit interval with demographic noise**. C. Parra-Rojas, J. D. Challenger, D. Fanelli, and A. J. McKane. *Phys. Rev. E* **94(5)**, 052133 (2016).
 

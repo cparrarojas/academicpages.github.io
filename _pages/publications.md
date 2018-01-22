@@ -18,6 +18,8 @@ You can always find an updated list of my publications on [my Google Scholar pro
 
 2. **The 2017 plague outbreak in Madagascar: data descriptions and epidemic modelling**. V. K. Nguyen, C. Parra-Rojas, and E. A. Hernandez-Vargas.
 
+    |[bioRxiv preprint](https://www.biorxiv.org/content/early/2018/01/14/247569)|
+
 3. **Adjuvanted influenza vaccine dynamics**. C. Parra-Rojas, V. von Messling, and E. A. Hernandez-Vargas.
 
 4. **Reduction of a metapopulation genetic model to an effective one island model**. C. Parra-Rojas, and A. J. McKane.

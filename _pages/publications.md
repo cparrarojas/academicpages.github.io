@@ -14,13 +14,15 @@ You can always find an updated list of my publications on [my Google Scholar pro
 
 1. **Neuraminidase inhibitors---is it time to call it a day?**. C. Parra-Rojas, V. K. Nguyen, G. Hernández-Mejía, and E. A. Hernandez-Vargas.
 
-    |[bioRxiv preprint](https://www.biorxiv.org/content/early/2018/01/10/245175)|
+    |[bioRxiv preprint](https://www.biorxiv.org/content/early/2018/01/10/245175)|[GitHub repository](https://github.com/systemsmedicine/neuraminidase-inhibitors)|
 
 2. **The 2017 plague outbreak in Madagascar: data descriptions and epidemic modelling**. V. K. Nguyen, C. Parra-Rojas, and E. A. Hernandez-Vargas.
 
-    |[bioRxiv preprint](https://www.biorxiv.org/content/early/2018/01/14/247569)|
+    |[bioRxiv preprint](https://www.biorxiv.org/content/early/2018/01/14/247569)|[GitHub repository](https://github.com/systemsmedicine/plague2017)|
 
 3. **Adjuvanted influenza vaccine dynamics**. C. Parra-Rojas, V. von Messling, and E. A. Hernandez-Vargas.
+
+    |[GitHub repository](https://github.com/systemsmedicine/adjuvanted-vaccine)|
 
 4. **Reduction of a metapopulation genetic model to an effective one island model**. C. Parra-Rojas, and A. J. McKane.
 

@@ -31,7 +31,7 @@ You can always find an updated list of my publications on [my Google Scholar pro
 ----
 ----
 
-### Peer-reviewed publications
+### Journal articles
 
 1. **Stochastic epidemic dynamics on extremely heterogeneous networks**. C. Parra-Rojas, T. House, and A. J. McKane. *Phys. Rev. E* **94(6)**, 062408 (2016).
 

@@ -1,6 +1,5 @@
 ---
-#title: "Asymptotic"
-sitemap: false
+title: "Asymptotic"
 permalink: /asymptotic/
 author_profile: true
 ---

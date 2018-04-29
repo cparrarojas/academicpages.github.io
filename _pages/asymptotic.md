@@ -1,7 +1,8 @@
 ---
-title: "Asymptotic"
+#title: "Asymptotic"
+sitemap: false
 permalink: /asymptotic/
-author_profile: false
+author_profile: true
 ---
 
 ### a quest

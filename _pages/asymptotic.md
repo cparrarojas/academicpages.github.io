@@ -2,7 +2,6 @@
 title: "Asymptotic"
 permalink: /asymptotic/
 author_profile: false
-sitemap: false
 ---
 
 ### a quest

@@ -48,7 +48,7 @@ silence.
 A featureless place to lie  
 still as the hours pass you by.  
 Striving for a chance to  
-become what you lost and   
+become what you've lost and   
 hold on, hold on tight  
 descending from these heights to  
 wake up, now,  

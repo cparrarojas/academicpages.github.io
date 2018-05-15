@@ -22,17 +22,17 @@ the path that you left behind
 
 and uncover the tracks  
 of what was once here,  
-you peer through the glass,  
+you peer through the glass  
 failing to see.
 
 A featureless place to lie  
 still as the hours pass you by.  
 You are waiting, standing  
-above it, afraid to look down
+above it, afraid to look down...
 
 and uncover the tracks  
 of what was once in,  
-you peer through the cracks,  
+you peer through the cracks  
 failing to see.
 
 Face it,  
@@ -53,7 +53,13 @@ hold on, hold on tight
 descending from these heights to  
 wake up, now,  
 larger, now,  
-break free.
+break free...
+
+
+
+### a return
+
+I'm wandering...
 
 
 

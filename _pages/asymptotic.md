@@ -1,3 +1,9 @@
+---
+title: "Asymptotic"
+permalink: /asymptotic/
+author_profile: true
+---
+
 ### a quest
 
 Light, oppressive through your eyelids as you  

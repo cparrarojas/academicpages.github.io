@@ -12,7 +12,7 @@ You can always find an updated list of my publications on [my Google Scholar pro
 
 ### Submitted
 
-1. **Kinetic limitations of neuraminidase inhibitors in influenza infection**. C. Parra-Rojas, V. K. Nguyen, G. Hernández-Mejía, and E. A. Hernandez-Vargas.
+1. **Neuraminidase inhibitors---is it time to call it a day?**. C. Parra-Rojas, V. K. Nguyen, G. Hernández-Mejía, and E. A. Hernandez-Vargas.
 
     |[bioRxiv preprint](https://www.biorxiv.org/content/early/2018/01/10/245175)|[GitHub repository](https://github.com/systemsmedicine/neuraminidase-inhibitors)|
 

@@ -1,9 +1,3 @@
----
-title: "Asymptotic"
-permalink: /asymptotic/
-author_profile: true
----
-
 ### a quest
 
 Light, oppressive through your eyelids as you  
@@ -59,6 +53,54 @@ break free...
 
 ### a return
 
+A thinning rope, this fabric torn  
+through fingers that miss the ground.  
+Flailing, I strain to heed  
+the nebulous calls of melting  
+faces, falling apart,  
+stretching, reaching from afar.
+
+Yearning for visions now forgotten,  
+failing to connect  
+the pieces that are left,    
+to retrace the steps now  
+fading.
+
+Navigate this fragility  
+to recall a faint  
+memory of tranquillity,  
+interrupted.
+
+Wishing for tomorrow to reveal...
+
+Thrust into the future of this past,  
+its broken roots and forsaken lands,  
+to face, again, equilibrium, self,  
+dislocating.
+
+Wishing for tomorrow to reveal    
+what lies beyond  
+this fragmented shore.  
+A new horizon  
+to behold.
+
+Drifting away  
+this time as before,  
+aching to regain  
+this time I let go.
+
+And I'm still here,  
+wishing for tomorrow to reveal
+
+somewhere to belong,  
+something to cling to  
+for just a minute.
+
+Wait here  
+for all these years to bring the tides to  
+clear, and sweep away the fear.  
+Probing the sands, in darkness I hunt for a  
+sense of direction. And scrambling, off-balance,  
 I'm wandering...
 
 

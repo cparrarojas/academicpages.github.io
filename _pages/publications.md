@@ -12,7 +12,7 @@ You can always find an updated list of my publications on [my Google Scholar pro
 
 ### Submitted
 
-1. **Neuraminidase inhibitors---is it time to call it a day?**. C. Parra-Rojas, V. K. Nguyen, G. Hernández-Mejía, and E. A. Hernandez-Vargas.
+1. **Kinetic limitations of neuraminidase inhibitors in influenza infection**. C. Parra-Rojas, V. K. Nguyen, G. Hernández-Mejía, and E. A. Hernandez-Vargas.
 
     |[bioRxiv preprint](https://www.biorxiv.org/content/early/2018/01/10/245175)|[GitHub repository](https://github.com/systemsmedicine/neuraminidase-inhibitors)|
 
@@ -20,14 +20,14 @@ You can always find an updated list of my publications on [my Google Scholar pro
 
     |[GitHub repository](https://github.com/systemsmedicine/adjuvanted-vaccine)|
 
-4. **Reduction of a metapopulation genetic model to an effective one island model**. C. Parra-Rojas, and A. J. McKane.
-
-    |[arXiv preprint](https://arxiv.org/abs/1707.07145)|
-
 ----
 ----
 
 ### Journal articles
+
+1. **Reduction of a metapopulation genetic model to an effective one island model**. C. Parra-Rojas, and A. J. McKane. *Europhys. Lett.* (in press).
+
+    |[arXiv preprint](https://arxiv.org/abs/1707.07145)|
 
 1. **The 2017 plague outbreak in Madagascar: data descriptions and epidemic modelling**. V. K. Nguyen, C. Parra-Rojas, and E. A. Hernandez-Vargas. *Epidemics* (in press).
 

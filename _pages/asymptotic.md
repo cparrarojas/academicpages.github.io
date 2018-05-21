@@ -89,12 +89,12 @@ Struck by the bitter realisation of
 commitment slipping by.
 
 Inconsequential, passionless, you wallow in   
-stagnant waters of promises unfulfilled,   
-but, you see...
+stagnant waters of promises unfulfilled.  
+But, you see...
 
 A lack of agency to stop the flow, to quit  
-this apathetic march you sabotage to care  
-well, you know,  
+this apathetic march you sabotage to care.  
+Well, you know,  
 your answer is not there.
 
 All you covet remains indifferent  

@@ -53,7 +53,55 @@ hold on, hold on tight
 descending from these heights to  
 wake up, now,  
 larger, now,  
-break free...
+break free.
+
+
+
+### a delusion
+
+Come, stare at a world that was created  
+just for you,  
+this soil, precious, fertile, these hands to  
+guide you through.  
+So many ways to follow this, so many ways to  
+thrive,  
+anticipating to discover no limits within your  
+mind.
+
+Go, walk away  
+with eyes open wide  
+towards the sunshine   
+to find your way.
+
+See what you believe that makes you unique  
+reflecting back at you  
+from faces around, the same to be found,  
+now barren, broken through.
+
+Go, walk away  
+with eyes open wide  
+towards the sunshine   
+to find your way.
+
+The loss of the thrill, experience defeat  
+and triumph, painless, mild.  
+Struck by the bitter realisation of  
+commitment slipping by.
+
+Inconsequential, passionless, you wallow in   
+stagnant waters of promises unfulfilled,   
+but, you see...
+
+A lack of agency to stop the flow, to quit  
+this apathetic march you sabotage to care  
+well, you know,  
+your answer is not there.
+
+All you covet remains indifferent  
+to the vapid demise of your petty self.  
+Weary, you scratch the walls to try again.  
+Too late, it always has been just too late  
+to become someone else.
 
 
 
@@ -107,7 +155,7 @@ for all these years to bring the tides to
 clear, and sweep away the fear.  
 Probing the sands, in darkness I hunt for a  
 sense of direction. And scrambling, off-balance,  
-I'm wandering...
+I'm wandering.
 
 
 

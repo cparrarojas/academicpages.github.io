@@ -25,13 +25,13 @@ You can always find an updated list of my publications on [my Google Scholar pro
 
 ### Journal articles
 
-1. **Reduction of a metapopulation genetic model to an effective one island model**. C. Parra-Rojas, and A. J. McKane. *Europhys. Lett.* (in press).
-
-    |[arXiv preprint](https://arxiv.org/abs/1707.07145)|
-
 1. **The 2017 plague outbreak in Madagascar: data descriptions and epidemic modelling**. V. K. Nguyen, C. Parra-Rojas, and E. A. Hernandez-Vargas. *Epidemics* (in press).
 
     |[bioRxiv preprint](https://www.biorxiv.org/content/early/2018/01/14/247569)|[GitHub repository](https://github.com/systemsmedicine/plague2017)|
+
+1. **Reduction of a metapopulation genetic model to an effective one island model**. C. Parra-Rojas, and A. J. McKane. *Europhys. Lett.* **122**, 18001 (2018).
+
+    |[PDF](/files/pubs/2018-SLVC.pdf)|[arXiv preprint](https://arxiv.org/abs/1707.07145)|[journal website](http://iopscience.iop.org/article/10.1209/0295-5075/122/18001)|
 
 2. **Stochastic epidemic dynamics on extremely heterogeneous networks**. C. Parra-Rojas, T. House, and A. J. McKane. *Phys. Rev. E* **94(6)**, 062408 (2016).
 

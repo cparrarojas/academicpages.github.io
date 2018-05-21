@@ -4,6 +4,8 @@ permalink: /asymptotic/
 author_profile: true
 ---
 
+
+
 ### a quest
 
 Light, oppressive through your eyelids as you  
@@ -73,7 +75,7 @@ with eyes open wide
 towards the sunshine   
 to find your way.
 
-See what you believe that makes you unique  
+See what you believe to make you unique  
 reflecting back at you  
 from faces around, the same to be found,  
 now barren, broken through.
@@ -83,7 +85,7 @@ with eyes open wide
 towards the sunshine   
 to find your way.
 
-The loss of the thrill, experience defeat  
+Devoid of the thrill, experience defeat  
 and triumph, painless, mild.  
 Struck by the bitter realisation of  
 commitment slipping by.

@@ -4,8 +4,6 @@ permalink: /asymptotic/
 author_profile: true
 ---
 
-
-
 ### a quest
 
 Light, oppressive through your eyelids as you  
@@ -56,6 +54,36 @@ descending from these heights to
 wake up, now,  
 larger, now,  
 break free.
+
+
+
+### a deception
+
+Immaterial, I dwell in darkness,  
+just an echo of these past selves without you.  
+A shimmer on the surface is all I have to give  
+when I open, presenting, for you to fill, this
+
+empty vase,  
+a room of mirrors to make you feel safe.  
+All around you, now,  
+the walls are closing in.  
+By your hands  
+you bring me forth into existence.  
+As you vanish, I become  
+before your draining eyes.
+
+Pervading,  
+I occupy.
+
+Empty vase,  
+a room of mirrors to make you feel safe.  
+All around you, now,  
+the walls are closing in.  
+By your hands  
+you bring me forth into existence.  
+As you vanish, I become  
+before your draining eyes.
 
 
 

@@ -159,43 +159,39 @@ break free.
 
 
 
-<!---### a congregation
+### a congregation
 
-...  
-...  
-...  
+Come in as a stranger, stay at a  
+distance to observe and learn their traits.  
+Restructuring patterns, accommodate to  
 fill the gaps and take your place.
 
-But when they look away you put on another face,  
-, disconnecting, dissociating.
+Then when they look away you put on another face,  
+a fleeting glimpse of your presence disconnecting, dissociating.
 
-...  
-...,  
-trying to extend your hand  
-and trade a smile  
+Feel it run through your hands, a thread of lies.  
+Try now to meet their eyes, affect a smile  
 to make them forget.
 
-... you've got  
-one for many, one for none.  
-...  
-... gaze upon the core.
+Ceaseless masquerading, in hiding you've got  
+one for many, one for none,  
+coalescing, shapeless, a multitude of  
+eyes turning inwards to gaze upon the core.
 
-Do not  
-let them see through you.
+Recoil  
+as they see through you.
 
-, disconnecting, dissociating.
+A fleeting glimpse of your presence disconnecting, dissociating.
 
-...  
-...  
-trying to extend your hand  
-and trade a smile,  
+Feel it run through your hands, a thread of lies.  
+Try now to meet their eyes, affect a smile  
 to make them forget.
 
-...  
-...
+Sever these connections to face  
+further revelation.
 
 
---->
+
 ### a deception
 
 Immaterial, I dwell in darkness,  

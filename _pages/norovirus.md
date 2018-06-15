@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+---
+title: "Norovirus"
+permalink: /norovirus/
+author_profile: true
+---
+
 <head>
   <meta charset="utf-8">
   <script src="https://cdn.jsdelivr.net/npm/vega@3"></script>

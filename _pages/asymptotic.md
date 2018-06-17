@@ -53,56 +53,7 @@ this us that we perform.
 ...on and on, so  
 come and lie here again,  
 another day,  
-please stay
-
-
-
-### a chasm
-
-...  
-...  
-...  
-...  
-
-...  
-...
-
-The silence we shared,  
-now just lost words in others.  
-Try not to forget as  
-we pass through one another.  
-
-...  
-...  
-...  
-...  
-
-...  
-...  
-...  
-...  
-
-...  
-...  
-
-...  
-...  
-...  
-
-...  
-...  
-
-...  
-...  
-...  
-...  
-
-...   
-... of static, a wraith  
-... and expect reaction,  
-repeat the same till I don't care.
-
-this new old you--->
+please stay--->
 
 
 
@@ -267,6 +218,51 @@ to the vapid demise of your petty self.
 Weary, you scratch the walls to try again.  
 Too late, it always has been just too late  
 to become someone else.
+
+
+
+### a chasm
+
+Revisit the places we were,  
+trying not to forget.  
+Acknowledge it doesn't make sense  
+to bring back the  
+days from before.  
+Acknowledge the loss.
+
+The silence that we shared,  
+now just lost words in others.  
+Reaching out, diverge,  
+we pass through one another.  
+
+Reconnecting incongruous paths  
+with nothing to say,  
+a futile recollection of moments  
+when we were the same.  
+
+Find the language to tell the  
+story we left to rot,  
+in blindness of proximity we were  
+unwilling to grow.
+
+Among the many faces I look through,  
+you rise up to present this new old you,  
+confronting me, expecting more,  
+unaware that it's no one's fault:  
+we got here together.
+
+Among the many faces I look through,  
+you rise up to present this new old you,  
+confronting me, expecting more,  
+unaware that it's no one's fault:  
+we got here together.  
+
+How come we got here...
+
+Together we embraced inaction,  
+setting up a barrier of static, a wraith.  
+Wake me now, engage, elicit a reaction,  
+then again repeat the same till I don't care.
 
 
 

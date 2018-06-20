@@ -5,58 +5,6 @@ author_profile: true
 ---
 
 
-<!---
-### a beacon
-
-...  
-...  
-...  
-...  
-...
-
-...  
-...  
-...  
-...  
-...
-
-... the shelter of your arms,  
-... together less than one,  
-...  
-...
-
-But let me be bare and frail,
-let me fail.  
-...  
-...  
-...  
-
-... the shelter of your arms,  
-... together less than one,  
-...  
-...  
-and, when the doors are open,  
-remember to leave a trace  
-to find you.
-
-...  
-...  
-...  
-...  
-Once I may dare to go,  
-in absence, through it all,    
-this us that we perform.
-
-...  
-...  
-...  
-...on and on, so  
-come and lie here again,  
-another day,  
-please stay--->
-
-
-
 ### a quest
 
 Light, oppressive through your eyelids as you  
@@ -266,6 +214,55 @@ then again repeat the same till I don't care.
 
 
 
+### a beacon
+
+With every step,  
+as less than one we fade,  
+and I learn you whole  
+as I offer you all  
+I am today.
+
+But, when I'm looking straight in your eyes,  
+I start to realise  
+how much reflects outside, how distant  
+I must seem to you.
+
+You see, if I strip myself away,  
+a little detachment is okay.  
+Imagine that there is a way through  
+and I'll be there with you.
+
+So let me be bare and frail, let me fail,  
+leave all these layers behind myself  
+to fall together  
+in place.
+
+You see, if I strip myself away,  
+a little detachment is okay.  
+Imagine that there is a way through  
+and I'll be the one to follow.  
+So, when the doors are open,  
+remember to leave a trace  
+to find you.
+
+In you I conceal myself when I'm  
+weak and scared I'll disappoint you.  
+Disoriented, feigning strength as I  
+stand before you, desperate, broken  
+when I'm left here to go,  
+in absence, through it all,    
+the rituals we perform.
+
+Take this moment, a lifetime  
+to build and keep this  
+fragile balance, to cherish  
+this routine. I pledge to  
+be your shelter again,  
+another day.  
+Please, stay.
+
+
+
 ### a return
 
 A thinning rope, this fabric torn  
@@ -276,7 +273,7 @@ faces, falling apart,
 stretching, reaching from afar.
 
 Yearning for visions now forgotten,  
-failing to connect  
+failing to collect  
 the pieces that are left,    
 to retrace the steps now  
 fading.
@@ -337,7 +334,7 @@ And as you start to wane,
 hovering,  
 just listen to the sounds  
 they cannot hear,  
-washing over you,  
+taking hold of you,  
 wiping out the view,  
 erasing.
 

@@ -18,8 +18,9 @@ where $\mathbf{x}=(S,E,I)$, and
 
 $$\mathbf{A}(\mathbf{x}) = \left(\begin{array}{c}-\beta(t) S I/N \\ \beta(t) S I/N - \sigma E \\ \sigma E - \gamma I\end{array}\right)$$
 
-$$
+$$\begin{equation}
   \begin{pmatrix}a&b&c\\\ d&e&f\\\ g&h&i\end{pmatrix}
+  \end{equation}
 $$
 
 <!--$$\mathbf{B}(\mathbf{x}) = \left(\\begin{array}{ccc} \beta(t) S I/N && -\beta(t) S I/N && 0 \\ -\beta(t) S I/N && \beta(t) S I/N + \sigma E && -\sigma E \\ 0 && -\sigma E && \sigma E + \gamma I\\end{array}\right)$$--->

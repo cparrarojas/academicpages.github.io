@@ -18,9 +18,7 @@ where $\mathbf{x}=(S,E,I)$, and
 
 $$\mathbf{A}(\mathbf{x}) = \left(\begin{array}{c}-\beta(t) S I/N \\ \beta(t) S I/N - \sigma E \\ \sigma E - \gamma I\end{array}\right)$$
 
-<script type="math/tex; mode=display">% <![CDATA[ \mathbf{B}(\mathbf{x}) = \left(\begin{array}{ccc} \beta(t) S I/N &amp; -\beta(t) S I/N &amp; 0 \\ -\beta(t) S I/N &amp; \beta(t) S I/N + \sigma E &amp; -\sigma E \\ 0 &amp; -\sigma E &amp; \sigma E + \gamma I\end{array}\right) %]]></script>
-
-$$\mathbf{B}(\mathbf{x}) = \left(\begin{array}{ccc} \beta(t) S I/N &amp; -\beta(t) S I/N &amp; 0 \\ -\beta(t) S I/N &amp; \beta(t) S I/N + \sigma E &amp; -\sigma E \\ 0 &amp; -\sigma E &amp; \sigma E + \gamma I\end{array}\right)$$
+$$\mathbf{B}(\mathbf{x}) = \left(\begin{array}{ccc} \beta(t) S I/N \\& -\beta(t) S I/N \\& 0 \\ -\beta(t) S I/N \\& \beta(t) S I/N + \sigma E \\& -\sigma E \\ 0 \\& -\sigma E \\& \sigma E + \gamma I\end{array}\right)$$
 
 Here, $\beta(t)=\beta e^{-k(t-\tau)}$ for $t>\tau$ and $\beta(t)=\beta$ otherwise. The parameters to estimate are the base transmission rate $\beta$ and its rate of decay $k$. The remaining parameters are given by $1/\sigma=1/9.31\,\text{days}$, $1/\gamma=1/7.41\,\text{days}$, and $\tau=28\,\text{days}$.
 

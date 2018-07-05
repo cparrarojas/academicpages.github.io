@@ -14,9 +14,11 @@ $$\frac{\rm{d}\mathbf{x}}{\rm{d}t} = \mathbf{A}(\mathbf{x}) + \boldsymbol{\eta}(
 
 $$\left\langle \boldsymbol{\eta}(t)\boldsymbol{\eta}(t')^\top\right\rangle = \mathbf{B}(\mathbf{x}) \delta(t-t')$$
 
-where $\mathbf{x}=(S,E,I)$, and
+where $\mathbf{x}=(S,E,I)$,
 
 $$\mathbf{A}(\mathbf{x}) = \left(\begin{array}{c}-\beta(t) S I/N \\ \beta(t) S I/N - \sigma E \\ \sigma E - \gamma I\end{array}\right)$$
+
+and
 
 $$\mathbf{B}(\mathbf{x}) = \left(\begin{array}{c c c} \beta(t) S I/N & -\beta(t) S I/N & 0 \\ -\beta(t) S I/N & \beta(t) S I/N + \sigma E & -\sigma E \\ 0 & -\sigma E & \sigma E + \gamma I\end{array}\right)$$
 

@@ -1,12 +1,13 @@
 ---
 title: ""
 permalink: /ebov-2018/
-author_profile: true
+author_profile: false
 ---
 
 <html xmlns="http://www.w3.org/1999/xhtml"><div>
-    <body><iframe width="1500px" height="1000px" frameborder="0" src="https://ebov-2018.herokuapp.com" />
-
+    <body><iframe width="1500px" height="1000px" frameborder="0" src="https://ebov-2018.herokuapp.com" /></body></div>
+<div>
+<body>
 <p>What you see above are the results of fitting a stochastic *SEIR* model to the 2018 Ebola outbreak in the DRC. This interactive visualisation attempts to replicate the [results by Cristian Althaus](https://github.com/calthaus/Ebola/tree/master/DRC%20%28GitHub%202018%29).
 
 <p>The model is defined by</p>

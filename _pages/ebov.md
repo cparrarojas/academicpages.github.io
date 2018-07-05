@@ -1,9 +1,10 @@
 ---
 layout: splash
-title: "2018 Ebola outbreak in the DRC"
 permalink: /ebov-2018/
 author_profile: false
 ---
+
+# 2018 Ebola outbreak in the DRC
 
 What you see below are the results of fitting a stochastic *SEIR* model to the 2018 Ebola outbreak in the Democratic Republic of Congo. This interactive visualisation attempts to replicate the [results by Cristian Althaus](https://github.com/calthaus/Ebola/tree/master/DRC%20%28GitHub%202018%29).
 

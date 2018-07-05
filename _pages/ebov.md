@@ -18,7 +18,7 @@ where $\mathbf{x}=(S,E,I)$, and
 
 $$\mathbf{A}(\mathbf{x}) = \left(\begin{array}{c}-\beta(t) S I/N \\ \beta(t) S I/N - \sigma E \\ \sigma E - \gamma I\end{array}\right)$$
 
-<script type="math/tex; mode=display">% <![CDATA[ \mathbf{B}(\mathbf{x}) = \left(\begin{array}{ccc} \beta(t) S I/N & -\beta(t) S I/N & 0 \\ -\beta(t) S I/N & \beta(t) S I/N + \sigma E & -\sigma E \\ 0 & -\sigma E & \sigma E + \gamma I\end{array}\right) %]]></script>
+<script type="math/tex; mode=display">% <![CDATA[ \mathbf{B}(\mathbf{x}) = \left(\begin{array}{ccc} \beta(t) S I/N &amp -\beta(t) S I/N &amp 0 \\ -\beta(t) S I/N &amp \beta(t) S I/N + \sigma E &amp -\sigma E \\ 0 &amp -\sigma E &amp \sigma E + \gamma I\end{array}\right) %]]></script>
 
 $$\mathbf{B}(\mathbf{x}) = \left(\begin{array}{ccc} \beta(t) S I/N \& -\beta(t) S I/N \& 0 \\ -\beta(t) S I/N \& \beta(t) S I/N + \sigma E \& -\sigma E \\ 0 \& -\sigma E \& \sigma E + \gamma I\end{array}\right)$$
 

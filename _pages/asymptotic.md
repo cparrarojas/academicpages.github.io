@@ -19,7 +19,7 @@ Outside, she waits for
 repetitions of endless days.
 
 Unable to recognise  
-the path that you left behind
+the path you have left behind
 
 and uncover the tracks  
 of what was once here,  
@@ -70,7 +70,7 @@ a fleeting glimpse of your presence disconnecting, dissociating.
 
 Feel it run through your hands, a thread of lies.  
 Try now to meet their eyes, affect a smile  
-to make them forget.
+and make them forget.
 
 Ceaseless masquerading, in hiding you've got  
 one for many, one for none,  
@@ -84,7 +84,7 @@ A fleeting glimpse of your presence disconnecting, dissociating.
 
 Feel it run through your hands, a thread of lies.  
 Try now to meet their eyes, affect a smile  
-to make them forget.
+and make them forget.
 
 Sever these connections to face  
 further revelation.
@@ -162,8 +162,8 @@ Well, you know,
 your answer is not there.
 
 All you covet remains indifferent  
-to the vapid demise of your petty self.  
-Weary, you scratch the walls to try again.  
+to your vapid demise, your petty self.  
+Weary, you scratch the walls and try again.  
 Too late, it always has been just too late  
 to become someone else.
 
@@ -280,7 +280,7 @@ fading.
 
 Navigate this fragility  
 to recall a faint  
-memory of tranquillity,  
+memory of tranquility,  
 interrupted.
 
 Wishing for tomorrow to reveal...
@@ -312,7 +312,7 @@ Wait here
 for all these years to bring the tides to  
 clear, and sweep away the fear.  
 Probing the sands, in darkness I hunt for a  
-sense of direction. And scrambling, off-balance,  
+sense of direction. Scrambling, off-balance,  
 I'm wandering.
 
 

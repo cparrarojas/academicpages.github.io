@@ -31,7 +31,7 @@ You can always find an updated list of my publications on [my Google Scholar pro
 
 1. **The 2017 plague outbreak in Madagascar: data descriptions and epidemic modelling**. V. K. Nguyen, C. Parra-Rojas, and E. A. Hernandez-Vargas. *Epidemics* (in press).
 
-    |[bioRxiv preprint](https://www.biorxiv.org/content/early/2018/01/14/247569)|[GitHub repository](https://github.com/systemsmedicine/plague2017)|
+    |[PDF](/files/pubs/2018-Plague.pdf)|[journal website](https://www.sciencedirect.com/science/article/pii/S1755436518300070)|[bioRxiv preprint](https://www.biorxiv.org/content/early/2018/01/14/247569)|[GitHub repository](https://github.com/systemsmedicine/plague2017)|
 
 1. **Reduction of a metapopulation genetic model to an effective one island model**. C. Parra-Rojas, and A. J. McKane. *Europhys. Lett.* **122**, 18001 (2018).
 

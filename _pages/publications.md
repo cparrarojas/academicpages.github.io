@@ -16,20 +16,20 @@ You can always find an updated list of my publications on [my Google Scholar pro
 
     |[bioRxiv preprint](https://www.biorxiv.org/content/early/2018/07/16/370007)|
 
-3. **Adjuvanted influenza vaccine dynamics**. C. Parra-Rojas, V. von Messling, and E. A. Hernandez-Vargas.
-
-    |[GitHub repository](https://github.com/systemsmedicine/adjuvanted-vaccine)|
-
 ----
 ----
 
 ### Journal articles
 
+1. **Adjuvanted influenza vaccine dynamics**. C. Parra-Rojas, V. von Messling, and E. A. Hernandez-Vargas. *Scientific Reports (in press)*
+
+    |[GitHub repository](https://github.com/systemsmedicine/adjuvanted-vaccine)|
+
 1. **Neuraminidase Inhibitors in Influenza Treatment and Prevention–Is It Time to Call It a Day?**. C. Parra-Rojas, V. K. Nguyen, G. Hernández-Mejía, and E. A. Hernandez-Vargas. *Viruses* **10(9)**, 454 (2018).
 
     |[PDF](/files/pubs/2018-NAIs.pdf)|[journal website](http://www.mdpi.com/1999-4915/10/9/454)|[GitHub repository](https://github.com/systemsmedicine/neuraminidase-inhibitors)|
 
-1. **The 2017 plague outbreak in Madagascar: data descriptions and epidemic modelling**. V. K. Nguyen, C. Parra-Rojas, and E. A. Hernandez-Vargas. *Epidemics* (in press).
+1. **The 2017 plague outbreak in Madagascar: data descriptions and epidemic modelling**. V. K. Nguyen, C. Parra-Rojas, and E. A. Hernandez-Vargas. *Epidemics* **25**, 20 (2018).
 
     |[PDF](/files/pubs/2018-Plague.pdf)|[journal website](https://www.sciencedirect.com/science/article/pii/S1755436518300070)|[bioRxiv preprint](https://www.biorxiv.org/content/early/2018/01/14/247569)|[GitHub repository](https://github.com/systemsmedicine/plague2017)|
 

@@ -11,12 +11,12 @@ A list of all the posts and pages found on the site. For you robots out there is
 
 <h2>Pages</h2>
 {% for post in site.pages %}
-{% unless post.title == "Asymptotic" %}
+{% unless post.title == "Asymptotic" or post.title == "Blog"%}
   {% include archive-single.html %}
 {% endunless %}
 {% endfor %}
 
-<h2>Posts</h2>
+<h2>Blog</h2>
 {% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}

@@ -1,7 +1,7 @@
 ---
 title: '2018 Ebola outbreak in the DRC'
 date: 2018-07-05
-permalink: /posts/2018/07/ebov-2018/
+permalink: /blog/2018/07/ebov-2018/
 tags:
   - ebola
   - inference

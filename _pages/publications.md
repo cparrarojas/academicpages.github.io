@@ -21,9 +21,9 @@ You can always find an updated list of my publications on [my Google Scholar pro
 
 ### Journal articles
 
-1. **Adjuvanted influenza vaccine dynamics**. C. Parra-Rojas, V. von Messling, and E. A. Hernandez-Vargas. *Scientific Reports (in press)*
+1. **Adjuvanted influenza vaccine dynamics**. C. Parra-Rojas, V. von Messling, and E. A. Hernandez-Vargas. *Scientific Reports* **9**, 73 (2019).
 
-    |[GitHub repository](https://github.com/systemsmedicine/adjuvanted-vaccine)|
+    |[PDF](/files/pubs/2019-Vaccine.pdf)|[journal website](https://www.nature.com/articles/s41598-018-36426-9)|[GitHub repository](https://github.com/systemsmedicine/adjuvanted-vaccine)|
 
 1. **Neuraminidase Inhibitors in Influenza Treatment and Prevention–Is It Time to Call It a Day?**. C. Parra-Rojas, V. K. Nguyen, G. Hernández-Mejía, and E. A. Hernandez-Vargas. *Viruses* **10(9)**, 454 (2018).
 

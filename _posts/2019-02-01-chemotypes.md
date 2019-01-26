@@ -2,7 +2,7 @@
 title: 'Geographical chemotypes'
 date: 2019-02-01
 permalink: /blog/2019/02/geographical-chemotypes/
-#excerpt: Visualisations of clustered bacterial metabolite data.
+excerpt: Visualisations of clustered bacterial metabolite data from the paper [*Focused natural product elucidation by prioritizing high-throughput metabolomic studies with machine learning*](https://www.biorxiv.org/).
 tags:
   - metabolomics
   - dataviz

@@ -10,20 +10,20 @@ You can always find an updated list of my publications on [my Google Scholar pro
 
 ---
 
-### Submitted
+### Journal articles
 
-1. **The trichotomy of pneumococcal infection outcomes**. A. E. S. Almocera, G. Hernández-Mejía, C. Parra-Rojas, and E. A. Hernandez-Vargas.
+1. **Focused natural product elucidation by prioritizing high-throughput metabolomic studies with machine learning**.
+N. J. Tobias, C. Parra-Rojas, Y.-N. Shi, Y.-M. Shi, S. Simonyi, A. Thanwisai, A. Vitta, N. Chantratita, E. A. Hernandez-Vargas, and H. B. Bode *(submitted)*
+
+    |[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/535781v1)|[GitHub repository](https://github.com/cparrarojas/geographical-chemotypes)|
+
+1. **The trichotomy of pneumococcal infection outcomes in the host**. A. E. S. Almocera, G. Hernández-Mejía, C. Parra-Rojas, and E. A. Hernandez-Vargas. *Commun. Nonlinear Sci. (in press)*
 
     |[bioRxiv preprint](https://www.biorxiv.org/content/early/2018/07/16/370007)|
 
-----
-----
-
-### Journal articles
-
 1. **Adjuvanted influenza vaccine dynamics**. C. Parra-Rojas, V. von Messling, and E. A. Hernandez-Vargas. *Scientific Reports* **9**, 73 (2019).
 
-    |[PDF](/files/pubs/2019-Vaccine.pdf)|[journal website](https://www.nature.com/articles/s41598-018-36426-9)|[GitHub repository](https://github.com/systemsmedicine/adjuvanted-vaccine)|
+    |[PDF](/files/pubs/2019-Vaccine.pdf)|[journal website](https://www.nature.com/articles/s41598-018-36426-9)|[GitHub repository](https://github.com/cparrarojas/adjuvanted-vaccine)|
 
 1. **Neuraminidase Inhibitors in Influenza Treatment and Prevention–Is It Time to Call It a Day?**. C. Parra-Rojas, V. K. Nguyen, G. Hernández-Mejía, and E. A. Hernandez-Vargas. *Viruses* **10(9)**, 454 (2018).
 

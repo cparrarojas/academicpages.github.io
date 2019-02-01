@@ -17,7 +17,7 @@ N. J. Tobias, C. Parra-Rojas, Y.-N. Shi, Y.-M. Shi, S. Simonyi, A. Thanwisai, A.
 
     |[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/535781v1)|[GitHub repository](https://github.com/cparrarojas/geographical-chemotypes)|
 
-1. **The trichotomy of pneumococcal infection outcomes in the host**. A. E. S. Almocera, G. Hernández-Mejía, C. Parra-Rojas, and E. A. Hernandez-Vargas. *Commun. Nonlinear Sci. (in press)*
+1. **The trichotomy of pneumococcal infection outcomes in the host**. A. E. S. Almocera, G. Hernández-Mejía, C. Parra-Rojas, and E. A. Hernandez-Vargas. *Commun. Nonlinear Sci. Numer. Simulat. (in press)*
 
     |[bioRxiv preprint](https://www.biorxiv.org/content/early/2018/07/16/370007)|
 

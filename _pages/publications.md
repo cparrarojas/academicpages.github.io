@@ -17,7 +17,7 @@ You can always find an updated list of my publications on [my Google Scholar pro
 1. **PDEparams: Parameter fitting toolbox for partial differential equations in Python**.
 C. Parra-Rojas, and E. A. Hernandez-Vargas *(submitted)*.
 
-  |[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/631226v1)|[GitHub repository](https://github.com/cparrarojas/PDEparams)|
+    |[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/631226v1)|[GitHub repository](https://github.com/cparrarojas/PDEparams)|
 
 1. **Cyclo(tetrahydroxybutyrate) production is sufficient to distinguish between _Xenorhabdus_ and _Photorhabdus_ isolates in Thailand**.
 N. J. Tobias, C. Parra-Rojas, Y.-N. Shi, Y.-M. Shi, S. Simonyi, A. Thanwisai, A. Vitta, N. Chantratita, E. A. Hernandez-Vargas, and H. B. Bode. *Environmental Microbiology*.

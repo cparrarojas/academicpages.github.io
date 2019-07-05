@@ -2,7 +2,7 @@
 title: 'Geographical chemotypes'
 date: 2019-02-01
 permalink: /blog/2019/02/geographical-chemotypes/
-excerpt: Visualisations of clustered bacterial metabolite data from the paper [*Cyclo(tetrahydroxybutyrate) production is sufficient to distinguish between _Xenorhabdus_ and _Photorhabdus_ isolates in Thailand*](https://onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.14685).
+excerpt: Visualisations of clustered bacterial metabolite data from the paper [*Cyclo(tetrahydroxybutyrate) production is sufficient to distinguish between* Xenorhabdus *and* Photorhabdus *isolates in Thailand*](https://onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.14685).
 tags:
   - metabolomics
   - dataviz

@@ -12,14 +12,21 @@ You can always find an updated list of my publications on [my Google Scholar pro
 
 ### Journal articles
 
-1. **Focused natural product elucidation by prioritizing high-throughput metabolomic studies with machine learning**.
-N. J. Tobias, C. Parra-Rojas, Y.-N. Shi, Y.-M. Shi, S. Simonyi, A. Thanwisai, A. Vitta, N. Chantratita, E. A. Hernandez-Vargas, and H. B. Bode *(submitted)*
+1. **Quantitative modeling of the function of kinetically driven transcriptional riboswitches**. C. Parra-Rojas, B. Fürtig, H. Schwalbe, and E. A. Hernandez-Vargas *(submitted)*.
 
-    |[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/535781v1)|[GitHub repository](https://github.com/cparrarojas/geographical-chemotypes)|
+1. **PDEparams: Parameter fitting toolbox for partial differential equations in Python**.
+C. Parra-Rojas, and E. A. Hernandez-Vargas *(submitted)*.
 
-1. **The trichotomy of pneumococcal infection outcomes in the host**. A. E. S. Almocera, G. Hernández-Mejía, C. Parra-Rojas, and E. A. Hernandez-Vargas. *Commun. Nonlinear Sci. Numer. Simulat. (in press)*
+  |[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/631226v1)|[GitHub repository](https://github.com/cparrarojas/PDEparams)|
 
-    |[bioRxiv preprint](https://www.biorxiv.org/content/early/2018/07/16/370007)|
+1. **Cyclo(tetrahydroxybutyrate) production is sufficient to distinguish between _Xenorhabdus_ and _Photorhabdus_ isolates in Thailand**.
+N. J. Tobias, C. Parra-Rojas, Y.-N. Shi, Y.-M. Shi, S. Simonyi, A. Thanwisai, A. Vitta, N. Chantratita, E. A. Hernandez-Vargas, and H. B. Bode. *Environmental Microbiology*.
+
+    |[journal website](https://onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.14685)|[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/535781v1)|[GitHub repository](https://github.com/cparrarojas/geographical-chemotypes)|
+
+1. **The trichotomy of pneumococcal infection outcomes in the host**. A. E. S. Almocera, G. Hernández-Mejía, C. Parra-Rojas, and E. A. Hernandez-Vargas. *Commun. Nonlinear Sci. Numer. Simulat.* **73**, 1 (2019).
+
+    |[PDF](/files/pubs/2019-Pneumococcus.pdf)|[journal website](https://www.sciencedirect.com/science/article/pii/S1007570419300292)|[bioRxiv preprint](https://www.biorxiv.org/content/early/2018/07/16/370007)|
 
 1. **Adjuvanted influenza vaccine dynamics**. C. Parra-Rojas, V. von Messling, and E. A. Hernandez-Vargas. *Scientific Reports* **9**, 73 (2019).
 

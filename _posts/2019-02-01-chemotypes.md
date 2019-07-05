@@ -2,7 +2,7 @@
 title: 'Geographical chemotypes'
 date: 2019-02-01
 permalink: /blog/2019/02/geographical-chemotypes/
-excerpt: Visualisations of clustered bacterial metabolite data from the paper [*Focused natural product elucidation by prioritizing high-throughput metabolomic studies with machine learning*](https://www.biorxiv.org/content/10.1101/535781v1).
+excerpt: Visualisations of clustered bacterial metabolite data from the paper [*Cyclo(tetrahydroxybutyrate) production is sufficient to distinguish between *Xenorhabdus* and *Photorhabdus* isolates in Thailand*](https://onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.14685).
 tags:
   - metabolomics
   - dataviz
@@ -10,7 +10,7 @@ tags:
 
 # Geographical chemotypes
 
-In our paper [*Focused natural product elucidation by prioritizing high-throughput metabolomic studies with machine learning*](https://www.biorxiv.org/content/10.1101/535781v1), we train a gradient boosting model to classify bacterial metabolite data obtained from soil samples into corresponding to *Photorhabdus* or *Xenorhabdus*, and discuss the role played by the host nematodes in providing a living environment to the bacteria, in comparison to abiotic factors.
+In our paper [*Cyclo(tetrahydroxybutyrate) production is sufficient to distinguish between *Xenorhabdus* and *Photorhabdus* isolates in Thailand*](https://onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.14685), we train a gradient boosting model to classify bacterial metabolite data obtained from soil samples into corresponding to *Photorhabdus* or *Xenorhabdus*, and discuss the role played by the host nematodes in providing a living environment to the bacteria, in comparison to abiotic factors.
 
 The interactive visualisations below show the clustered metabolites at different values of the correlation threshold &rho; across samples. For each threshold, one metabolite of each cluster was selected as a feature for the model, while the others were discarded. After identified the best predictor of bacterial genus, we looked into the individual members of its cluster at the lowest correlation threshold. One of these compounds was isolated and its chemical structure determined.
 

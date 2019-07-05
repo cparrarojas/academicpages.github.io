@@ -38,7 +38,7 @@ failing to see.
 
 Face it,  
 open your eyes and see  
-that's all the same again  
+it's all the same again  
 inside this
 
 whiteness, now,  
@@ -152,9 +152,9 @@ and triumph, painless, mild.
 Struck by the bitter realisation of  
 commitment slipping by.
 
-Inconsequential, passionless, you wallow in   
+Inconsequential, aimlessly, you wallow in   
 stagnant waters of promises unfulfilled.  
-But, you see...
+And, you see...
 
 A lack of agency to stop the flow, to quit  
 this apathetic march you sabotage to care.  
@@ -162,7 +162,7 @@ Well, you know,
 your answer is not there.
 
 All you covet remains indifferent  
-to your vapid demise, your petty self.  
+to your vapid demise, this petty self.  
 Weary, you scratch the walls and try again.  
 Too late, it always has been just too late  
 to become someone else.
@@ -189,8 +189,8 @@ a futile recollection of moments
 when we were the same.  
 
 Find the language to tell the  
-story we left to rot,  
-in blindness of proximity we were  
+story we left to rot.  
+In blindness of proximity we were  
 unwilling to grow.
 
 Among the many faces I look through,  
@@ -234,7 +234,7 @@ and I'll be there with you.
 
 So let me be bare and frail, let me fail,  
 leave all these layers behind myself  
-to fall together  
+and fall together  
 in place.
 
 You see, if I strip myself away,  
@@ -275,7 +275,7 @@ stretching, reaching from afar.
 Yearning for visions now forgotten,  
 failing to collect  
 the pieces that are left,    
-to retrace the steps now  
+and retrace the steps now  
 fading.
 
 Navigate this fragility  

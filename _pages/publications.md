@@ -20,9 +20,9 @@ C. Parra-Rojas, and E. A. Hernandez-Vargas *(submitted)*.
     |[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/631226v1)|[GitHub repository](https://github.com/cparrarojas/PDEparams)|
 
 3. **Cyclo(tetrahydroxybutyrate) production is sufficient to distinguish between _Xenorhabdus_ and _Photorhabdus_ isolates in Thailand**.
-N. J. Tobias, C. Parra-Rojas, Y.-N. Shi, Y.-M. Shi, S. Simonyi, A. Thanwisai, A. Vitta, N. Chantratita, E. A. Hernandez-Vargas, and H. B. Bode. *Environmental Microbiology*.
+N. J. Tobias, C. Parra-Rojas, Y.-N. Shi, Y.-M. Shi, S. Simonyi, A. Thanwisai, A. Vitta, N. Chantratita, E. A. Hernandez-Vargas, and H. B. Bode. *Environ. Microbiol.* **21(8)**, 2921 (2019).
 
-    |[journal website](https://onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.14685)|[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/535781v1)|[GitHub repository](https://github.com/cparrarojas/geographical-chemotypes)|
+    |[PDF](/files/pubs/2019-Chemotypes.pdf)|[journal website](https://onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.14685)|[bioRxiv preprint](https://www.biorxiv.org/content/10.1101/535781v1)|[GitHub repository](https://github.com/cparrarojas/geographical-chemotypes)|
 
 4. **The trichotomy of pneumococcal infection outcomes in the host**. A. E. S. Almocera, G. Hernández-Mejía, C. Parra-Rojas, and E. A. Hernandez-Vargas. *Commun. Nonlinear Sci. Numer. Simulat.* **73**, 1 (2019).
 
